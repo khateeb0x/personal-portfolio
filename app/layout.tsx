@@ -7,7 +7,7 @@ import { NavBar } from "@/components/nav-bar";
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Your Name - Full Stack Developer',
+  title: 'Muhammad Khateeb - Full Stack Developer',
   description: 'Personal portfolio showcasing my work and experience as a Full Stack Developer',
 };
 

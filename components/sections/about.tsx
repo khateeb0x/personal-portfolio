@@ -14,7 +14,7 @@ export function AboutSection() {
             <div className="absolute -inset-1 rounded-full bg-gradient-to-r from-primary to-secondary blur opacity-30 group-hover:opacity-50 transition duration-1000"></div>
             <div className="relative aspect-square rounded-full overflow-hidden max-w-md mx-auto">
               <Image
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1000&auto=format&fit=crop"
+                src="/img/personal.png"
                 alt="Profile"
                 fill
                 className="object-cover transition-transform duration-500 group-hover:scale-110"

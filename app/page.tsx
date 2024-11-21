@@ -78,7 +78,7 @@ export default function Home() {
                 <input
                   type="text"
                   className="w-full px-3 py-2 border rounded-md bg-background transition-all duration-300 focus:ring-2 focus:ring-primary/50"
-                  placeholder="Your name"
+                  placeholder="Your Name"
                 />
               </div>
               <div className="space-y-2">
@@ -105,7 +105,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="py-8 border-t">
         <div className="container px-4 mx-auto text-center text-muted-foreground">
-          <p>© {new Date().getFullYear()} Your Name. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Muhammad Khateeb. All rights reserved.</p>
         </div>
       </footer>
     </main>
